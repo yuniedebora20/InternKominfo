@@ -16,7 +16,7 @@ This project is intended for developing Web Profile for Badan Penghubung Daerah 
 
 ## LIST TO DO FIRST:
 
-1. Clone this project `git clone https://github.com/azis14/Propensi-D01.git`
+1. Clone this project `git clone https://github.com/yuniedebora20/InternKominfo.git`
 2. Create virtual environtment and named it `env` `py -m venv env`
 3. Install dependencies requirements `pip install -r requirements.txt`
 
